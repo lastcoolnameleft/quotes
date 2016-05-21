@@ -1,3 +1,3 @@
 # quotes
 
-[technology.md](Technology Quotes)
+[Technology Quotes](technology.md)
